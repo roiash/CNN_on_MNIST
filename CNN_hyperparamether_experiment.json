@@ -1,0 +1,1964 @@
+{
+    "3-16-32": {
+        "kernel_size": 3,
+        "channel_size": 16,
+        "batch_size": 32,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.5485201690125799
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.38433403382275966
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.3616453752348439
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.34299799349713833
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.31090985152514006
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.3105513704108431
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.2781662481049806
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.3072706363936688
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.2567462544504605
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.27408649720093037
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.2364419925615128
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.25861521856264863
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.220235488766272
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.26121121071120523
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.2051950366321967
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.25908976935959876
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.19031787315800122
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.27692585329901664
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.17712862828790707
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.26330930482041326
+            }
+        ],
+        "training_time": 46.05898475646973,
+        "test_accuracy": 90.82
+    },
+    "3-16-64": {
+        "kernel_size": 3,
+        "channel_size": 16,
+        "batch_size": 64,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.5906691277687791
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.40253673190787687
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.38620722141393643
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.37162767489582804
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.33666040486090076
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.3385819436003596
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.3042533713847798
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.31462264130428685
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.2813468073992723
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.3015282854942952
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.2613505056529475
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.273595007610018
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.2454297958751834
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.26562728038278677
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.2283222806820335
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.2779298076816535
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.21618764766295703
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.2691920454598079
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.20264055826287178
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.25545964813080885
+            }
+        ],
+        "training_time": 31.849882125854492,
+        "test_accuracy": 91.36
+    },
+    "3-16-128": {
+        "kernel_size": 3,
+        "channel_size": 16,
+        "batch_size": 128,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.6708209099850806
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.4646879232535928
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.42533575679989044
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.3917436427989249
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.3685513138408498
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.3539887497485694
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.3389647929337773
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.3372662777112702
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.31345126119843364
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.311742118102009
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.2932950833091771
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.3041395534903316
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.2773345401034738
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.2915371424060757
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.263293950027648
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.2868466134798729
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.25008648786231547
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.2800708415649705
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.23812660502401292
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.2690018188145201
+            }
+        ],
+        "training_time": 15.834712982177734,
+        "test_accuracy": 90.02
+    },
+    "3-32-32": {
+        "kernel_size": 3,
+        "channel_size": 32,
+        "batch_size": 32,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.4973794028144795
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.36709256784078925
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.3281671957275731
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.2904327592317094
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.2759295318827333
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.27410352361646106
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.24148015644557952
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.259080080703852
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.21819861031532978
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.24253207432462814
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.19397039488207668
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.25908977042170284
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.1755361764352385
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.2468406684775936
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.15659844482829482
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.2569285050034523
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.13985159711504785
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.26464000848379543
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.12630817892982202
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.2788672721290842
+            }
+        ],
+        "training_time": 42.78032326698303,
+        "test_accuracy": 91.25
+    },
+    "3-32-64": {
+        "kernel_size": 3,
+        "channel_size": 32,
+        "batch_size": 64,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.5499006862798649
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.38906720078597634
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.3620472830265361
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.3265315000030954
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.3137985429614238
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.32471952852556263
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.28040722080582386
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.27840055481104525
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.2529691032675094
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.2652555454711793
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.23315717408776138
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.2534562678912939
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.21379196592101807
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.25700717987650534
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.19577144021928383
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.23615462105658094
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.17704065199873334
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.2439729332039922
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.16408869178555044
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.2469313436708713
+            }
+        ],
+        "training_time": 26.620779514312744,
+        "test_accuracy": 91.83
+    },
+    "3-32-128": {
+        "kernel_size": 3,
+        "channel_size": 32,
+        "batch_size": 128,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.6039095197570875
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.41985919970577046
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.3785567588179651
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.33738419464079
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.3279771760577413
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.3315713372776064
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.29685863743733315
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.30294393381829987
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.2756649299622162
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.28117002167944183
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.25288340478337884
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.2745702112630262
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.23625166929913843
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.26231160583132407
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.21866099913479928
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.25115669594477796
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.20486135528833035
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.23666350038374884
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.19093635375554835
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.26110054931398163
+            }
+        ],
+        "training_time": 19.890634298324585,
+        "test_accuracy": 91.01
+    },
+    "3-64-32": {
+        "kernel_size": 3,
+        "channel_size": 64,
+        "batch_size": 32,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.454891317991096
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.33040958421027405
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.29653709419048974
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.2724967201022392
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.24660815468022804
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.2583768359841184
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.21097618318177047
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.23806372517918017
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.18235144349544932
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.24009030247305302
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.15795007647037287
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.268194490362038
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.13493779688332364
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.275784160030332
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.11654065180334928
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.25386224366883015
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.09908736432394005
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.2725993172998758
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.0865552498382107
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.32518143734121896
+            }
+        ],
+        "training_time": 42.69381403923035,
+        "test_accuracy": 90.58
+    },
+    "3-64-64": {
+        "kernel_size": 3,
+        "channel_size": 64,
+        "batch_size": 64,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.5067504352723202
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.3557118572673555
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.3291287399492659
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.31538915305824605
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.27911841809459204
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.2808875201617257
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.24453668807713763
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.25291075285966114
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.21564470052755416
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.27574419391231014
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.1928991797526484
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.23418890609074447
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.16967094775366434
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.24521269541928323
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.15035344957261734
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.2350214977385634
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.1311716032004603
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.25123067185977255
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.11800229456616014
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.25347492802825017
+            }
+        ],
+        "training_time": 26.17133069038391,
+        "test_accuracy": 91.82
+    },
+    "3-64-128": {
+        "kernel_size": 3,
+        "channel_size": 64,
+        "batch_size": 128,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.549407166721177
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.3988189576035839
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.352614536555144
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.3583516991239483
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.3028054521974276
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.31741725135657745
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.2700038592165694
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.2667990041486287
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.24678041831275263
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.25190324273149844
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.22334577824802584
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.2580851010851941
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.2038582080653404
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.24613459004183946
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.18385165828277886
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.23676468899189415
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.1686019224370773
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.2613036600967585
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.15523782314465284
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.23752181800240177
+            }
+        ],
+        "training_time": 19.916664361953735,
+        "test_accuracy": 91.98
+    },
+    "5-16-32": {
+        "kernel_size": 5,
+        "channel_size": 16,
+        "batch_size": 32,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.5910136211688456
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.41257538694016477
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.3880166824609677
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.35595033936044
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.33259010996208693
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.3143498932110502
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.2956247881513445
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.31984010874590973
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.2691917070627467
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.2922668676744116
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.2492180945502684
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.26349939694429964
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.23056768103616765
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.2601812116009124
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.21484059932835214
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.28125205512376544
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.20218099237264728
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.26835824785397405
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.18883707370304847
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.26357384458818334
+            }
+        ],
+        "training_time": 45.568708419799805,
+        "test_accuracy": 90.81
+    },
+    "5-16-64": {
+        "kernel_size": 5,
+        "channel_size": 16,
+        "batch_size": 64,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.6253771846172435
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.4259021816364789
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.3948226581791577
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.3564858391123303
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.33727373896069124
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.31810503288850944
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.300329511315901
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.2940120676185115
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.2757088340610157
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.2721407511981867
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.25565959274514727
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.3108906418211379
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.24030245433081662
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.2691735290622307
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.22547042747362814
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.2750691496530327
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.20973280716991455
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.25121347082115836
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.19631040178865522
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.25499384253585744
+            }
+        ],
+        "training_time": 32.59037899971008,
+        "test_accuracy": 90.92
+    },
+    "5-16-128": {
+        "kernel_size": 5,
+        "channel_size": 16,
+        "batch_size": 128,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.7031291936798397
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.5150826068247779
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.43599196862420314
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.4071383208541547
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.37243186869180406
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.3659773057295104
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.3374572704453248
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.3318311521562479
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.3148037429056028
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.3431540439694615
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.2949103418637946
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.30187141743756957
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.2790112053825907
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.287294939412909
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.2656065718318424
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.28387971550731333
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.2534512690565302
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.27180289969605914
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.2397066982521918
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.28610256541583495
+            }
+        ],
+        "training_time": 20.484019994735718,
+        "test_accuracy": 89.78
+    },
+    "5-32-32": {
+        "kernel_size": 5,
+        "channel_size": 32,
+        "batch_size": 32,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.4954730188797553
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.3669505698566741
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.31912107100525255
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.3082921914597775
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.2694545947753079
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.2742977871539745
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.238151947956925
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.26155025858352793
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.21420377082691405
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.2568468468620422
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.19377359929270385
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.24780407541609825
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.17486374105039093
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.2731652909770925
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.1556128889883004
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.25370576267546796
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.14504154881980044
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.27945473245444136
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.1277305415132305
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.2958761690025951
+            }
+        ],
+        "training_time": 50.6903874874115,
+        "test_accuracy": 91.69
+    },
+    "5-32-64": {
+        "kernel_size": 5,
+        "channel_size": 32,
+        "batch_size": 64,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.5735656794764092
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.39681586648448036
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.36598574140548124
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.3183831205054865
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.3100437385446407
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.3103668568497997
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.2773002515774987
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.27139779982172835
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.24785869478743783
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.26667539093454007
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.22794976106296938
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.254900441394519
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.20700965389318937
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.25848638544143254
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.18679685207326577
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.24911010284292495
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.17148038457135298
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.2559498146618322
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.15805625736069084
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.25019865015805776
+            }
+        ],
+        "training_time": 27.556013584136963,
+        "test_accuracy": 91.54
+    },
+    "5-32-128": {
+        "kernel_size": 5,
+        "channel_size": 32,
+        "batch_size": 128,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.6287821818442241
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.4560665690292746
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.38925258750027986
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.35544832682205457
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.33088694110403966
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.3074275401689239
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.29006291579663607
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.2851205852072118
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.2654063596850184
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.2846525273585724
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.24424258186289283
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.26158472920878456
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.2244497718710969
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.28519688571913765
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.20716687804881093
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.2413040341462119
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.1958097569154997
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.24530471356238348
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.17987622505556927
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.2539529227099176
+            }
+        ],
+        "training_time": 18.243565320968628,
+        "test_accuracy": 90.48
+    },
+    "5-64-32": {
+        "kernel_size": 5,
+        "channel_size": 64,
+        "batch_size": 32,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.47752706158513486
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.32100044615725254
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.30478293508618143
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.2959247568820385
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.2550055731481224
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.2770204154734916
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.21889882592801038
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.23901389669230644
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.196500655739823
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.24494288943390896
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.17183281141086404
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.25682077831093303
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.15340376951539347
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.25129089981634567
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.13506577644522128
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.2820839462999968
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.11927035967837837
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.2770926705185086
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.10693533855102619
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.284578112144261
+            }
+        ],
+        "training_time": 47.84278845787048,
+        "test_accuracy": 91.69
+    },
+    "5-64-64": {
+        "kernel_size": 5,
+        "channel_size": 64,
+        "batch_size": 64,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.48666425067454977
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.3273034402627056
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.3025712708099751
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.291072731679779
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.2548028879802352
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.25955536342778446
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.22296620406273948
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.25855821156400743
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.19579000653978096
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.24566090031195495
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.17132343873653866
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.2351622081251215
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.15118639508486884
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.2793023145078855
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.13490331990487792
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.26089337581800204
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.11591855952931379
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.25590421183634615
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.10511518765386108
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.267701073230039
+            }
+        ],
+        "training_time": 31.503483772277832,
+        "test_accuracy": 92.11
+    },
+    "5-64-128": {
+        "kernel_size": 5,
+        "channel_size": 64,
+        "batch_size": 128,
+        "training_history": [
+            {
+                "epoch": 1,
+                "phase": "Training",
+                "loss": 0.5649988063930595
+            },
+            {
+                "epoch": 1,
+                "phase": "Validation",
+                "loss": 0.37385287022186536
+            },
+            {
+                "epoch": 2,
+                "phase": "Training",
+                "loss": 0.34299521644910175
+            },
+            {
+                "epoch": 2,
+                "phase": "Validation",
+                "loss": 0.30397077485666435
+            },
+            {
+                "epoch": 3,
+                "phase": "Training",
+                "loss": 0.2865057665211151
+            },
+            {
+                "epoch": 3,
+                "phase": "Validation",
+                "loss": 0.26677336354376907
+            },
+            {
+                "epoch": 4,
+                "phase": "Training",
+                "loss": 0.25137809854354304
+            },
+            {
+                "epoch": 4,
+                "phase": "Validation",
+                "loss": 0.29222994588189205
+            },
+            {
+                "epoch": 5,
+                "phase": "Training",
+                "loss": 0.22584948929847012
+            },
+            {
+                "epoch": 5,
+                "phase": "Validation",
+                "loss": 0.25820674153707796
+            },
+            {
+                "epoch": 6,
+                "phase": "Training",
+                "loss": 0.20298652327336245
+            },
+            {
+                "epoch": 6,
+                "phase": "Validation",
+                "loss": 0.3126861831899417
+            },
+            {
+                "epoch": 7,
+                "phase": "Training",
+                "loss": 0.1850007704647208
+            },
+            {
+                "epoch": 7,
+                "phase": "Validation",
+                "loss": 0.24758245000394724
+            },
+            {
+                "epoch": 8,
+                "phase": "Training",
+                "loss": 0.1642580551351364
+            },
+            {
+                "epoch": 8,
+                "phase": "Validation",
+                "loss": 0.2378034005730839
+            },
+            {
+                "epoch": 9,
+                "phase": "Training",
+                "loss": 0.14777236827932425
+            },
+            {
+                "epoch": 9,
+                "phase": "Validation",
+                "loss": 0.2506817949272819
+            },
+            {
+                "epoch": 10,
+                "phase": "Training",
+                "loss": 0.13492226459249093
+            },
+            {
+                "epoch": 10,
+                "phase": "Validation",
+                "loss": 0.2396316755626161
+            }
+        ],
+        "training_time": 21.411550521850586,
+        "test_accuracy": 91.86
+    }
+}
